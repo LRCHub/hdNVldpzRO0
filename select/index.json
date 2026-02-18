@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "AIDANA!!!!",
+  "base_artist": "きさら",
+  "createdAt": "2026-02-18T08:34:11.285156Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AIDANA!!!! (feat. 初音ミク&v4 flower&鳴花ヒメ&鳴花ミコト)",
+      "artist": "きさら",
+      "has_synced": false,
+      "path": "select/pl_01_AIDANA!!!!_(feat._初音ミク&v4_flower&鳴花ヒメ&鳴花ミコト)_きさら.txt"
+    }
+  ]
+}
